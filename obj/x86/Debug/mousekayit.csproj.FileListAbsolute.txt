@@ -1,0 +1,63 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\mousekayit\obj\x86\Debug\mousekayit.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\mousekayit\obj\x86\Debug\mousekayit.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\mousekayit\obj\x86\Debug\mousekayit.frm_mouse.resources
+C:\Users\mustafa\documents\visual studio 2010\Projects\mousekayit\obj\x86\Debug\mousekayit.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\documents\visual studio 2010\Projects\mousekayit\obj\x86\Debug\mousekayit.frm_zaman.resources
+C:\Users\mustafa\documents\visual studio 2010\Projects\mousekayit\bin\Debug\Mouse Kayıt.exe
+C:\Users\mustafa\documents\visual studio 2010\Projects\mousekayit\bin\Debug\Mouse Kayıt.pdb
+C:\Users\mustafa\documents\visual studio 2010\Projects\mousekayit\obj\x86\Debug\Mouse Kayıt.exe
+C:\Users\mustafa\documents\visual studio 2010\Projects\mousekayit\obj\x86\Debug\Mouse Kayıt.pdb
+C:\Users\mustafa\documents\visual studio 2010\Projects\mousekayit\bin\Debug\Mouse Kayıt.exe.config
+C:\Users\mustafa\Desktop\New folder\mousekayit\bin\Debug\Mouse Kayıt.exe.config
+C:\Users\mustafa\Desktop\New folder\mousekayit\obj\x86\Debug\Mouse Kayıt.exe
+C:\Users\mustafa\Desktop\New folder\mousekayit\obj\x86\Debug\Mouse Kayıt.pdb
+C:\Users\mustafa\Desktop\New folder\mousekayit\bin\Debug\Mouse Kayıt.exe
+C:\Users\mustafa\Desktop\New folder\mousekayit\bin\Debug\Mouse Kayıt.pdb
+C:\Users\mustafa\Desktop\New folder\mousekayit\obj\x86\Debug\mousekayit.csprojResolveAssemblyReference.cache
+C:\Users\mustafa\Desktop\New folder\mousekayit\obj\x86\Debug\mousekayit.frm_mouse.resources
+C:\Users\mustafa\Desktop\New folder\mousekayit\obj\x86\Debug\mousekayit.frm_zaman.resources
+C:\Users\mustafa\Desktop\New folder\mousekayit\obj\x86\Debug\mousekayit.Properties.Resources.resources
+C:\Users\mustafa\Desktop\New folder\mousekayit\obj\x86\Debug\mousekayit.csproj.GenerateResource.Cache
+D:\masaüstü2\Yeni klasör\C sharp\mousekayit\bin\Debug\Mouse Kayıt.exe.config
+D:\masaüstü2\Yeni klasör\C sharp\mousekayit\obj\x86\Debug\Mouse Kayıt.exe
+D:\masaüstü2\Yeni klasör\C sharp\mousekayit\obj\x86\Debug\Mouse Kayıt.pdb
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\bin\Debug\Mouse Kayıt.exe.config
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\obj\x86\Debug\Mouse Kayıt.exe
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\obj\x86\Debug\Mouse Kayıt.pdb
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\bin\Debug\Mouse Kayıt.exe
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\bin\Debug\Mouse Kayıt.pdb
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\obj\x86\Debug\mousekayit.csprojResolveAssemblyReference.cache
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\obj\x86\Debug\mousekayit.frm_mouse.resources
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\obj\x86\Debug\mousekayit.frm_zaman.resources
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\obj\x86\Debug\mousekayit.Properties.Resources.resources
+C:\Users\TURMOB\Desktop\Mouse Kayıt\mousekayit\obj\x86\Debug\mousekayit.csproj.GenerateResource.Cache
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\bin\Debug\Mouse Kayıt.exe.config
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\obj\x86\Debug\Mouse Kayıt.exe
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\obj\x86\Debug\Mouse Kayıt.pdb
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\bin\Debug\Mouse Kayıt.exe
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\bin\Debug\Mouse Kayıt.pdb
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\obj\x86\Debug\mousekayit.csprojResolveAssemblyReference.cache
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\obj\x86\Debug\mousekayit.frm_mouse.resources
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\obj\x86\Debug\mousekayit.frm_zaman.resources
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\obj\x86\Debug\mousekayit.Properties.Resources.resources
+C:\Users\TURMOB\Desktop\Mouse Kayıt - Kopya\mousekayit\obj\x86\Debug\mousekayit.csproj.GenerateResource.Cache
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\bin\Debug\Mouse Kayıt.exe.config
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\obj\x86\Debug\Mouse Kayıt.exe
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\obj\x86\Debug\Mouse Kayıt.pdb
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\bin\Debug\Mouse Kayıt.exe
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\bin\Debug\Mouse Kayıt.pdb
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\obj\x86\Debug\mousekayit.csprojResolveAssemblyReference.cache
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\obj\x86\Debug\mousekayit.frm_mouse.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\obj\x86\Debug\mousekayit.frm_zaman.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\obj\x86\Debug\mousekayit.Properties.Resources.resources
+C:\Users\TURMOB\Dropbox\Null Team Folder\Projeler\Masaüstü\Yayına Hazır\Mouse Kayıt\Mouse Kayıt\obj\x86\Debug\mousekayit.csproj.GenerateResource.Cache
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\bin\Debug\Mouse Kayıt.exe.config
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\obj\x86\Debug\Mouse Kayıt.exe
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\obj\x86\Debug\Mouse Kayıt.pdb
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\bin\Debug\Mouse Kayıt.exe
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\bin\Debug\Mouse Kayıt.pdb
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\obj\x86\Debug\mousekayit.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\obj\x86\Debug\mousekayit.frm_mouse.resources
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\obj\x86\Debug\mousekayit.frm_zaman.resources
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\obj\x86\Debug\mousekayit.Properties.Resources.resources
+C:\Users\Mustafa Uzun\Desktop\Mouse Kayıt\obj\x86\Debug\mousekayit.csproj.GenerateResource.Cache
